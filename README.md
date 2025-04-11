@@ -28,11 +28,11 @@
 
 🌟 DevOps Engineer with a passion for automating everything!  
 🌐 Love building pipelines, deploying on AWS, and writing clean IaC.  
-🎯 Focused on cracking 10+ LPA roles and sharing knowledge with the DevOps community.
+🎯 Focused on sharing knowledge with the DevOps community.
 
 ---
 
-### 🛠️ Tech Stack
+
 
 ### 🛠️ Tech Stack
 
@@ -71,8 +71,8 @@
 
 </div>
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/your-badge-link)
-- [Full Stack Developer - Great Learning](https://verify.greatlearning.in/your-cert-link)
+- [AWS Certified Cloud Practitioner]([https://www.credly.com/badges/your-badge-link](https://drive.google.com/file/d/169qV1zdskigenkf545YnqWaHMgKUuMap/view?usp=drive_link))
+- [Full Stack Developer - Great Learning](https://drive.google.com/file/d/1TP0LsqtDdvsbqGHQCueBy_WeL664mboV/view?usp=drive_link)
 
 ---
 

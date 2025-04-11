@@ -3,7 +3,8 @@
 <h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automator</h3>
 
 <p align="center">
-  <img src="banner.png" alt="Nikita Dudhbhate DevOps Banner" />
+  <img src="banner.png" alt="Nikita Dudhbhate DevOps Banner" width="600" height="188"/>
+ 
 </p>
 
 <!--

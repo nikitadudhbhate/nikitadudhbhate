@@ -1,9 +1,12 @@
 
+<h1 align="center">👋 Nikita Dudhbhate</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automator</h3>
 
 <p align="center">
   <img src="banner.png" alt="Nikita Dudhbhate DevOps Banner" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitadudhbhate&label=Profile%20Views&color=0e75b6&style=flat" alt="nikitadudhbhate" />
 </p>
@@ -12,9 +15,16 @@
 <p align="center">
   <img src="https://github.com/nikitadudhbhate/nikitadudhbhate/assets/banner-devops.png" />
 </p>
+-->
+---
 
-<h1 align="center">👋 Nikita Dudhbhate</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automator</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nikitadudhbhate/count.svg" alt="Total Visitors" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Always+learning+DevOps+%26+Cloud!;Thanks+for+visiting+🚀" alt="Typing SVG" />
+</p>
+---
+
 
 <p align="center">
   <a href="https://linkedin.com/in/nikita-dudhbhate" target="_blank">
@@ -28,14 +38,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitadudhbhate&style=flat-square&color=brightgreen" alt="Visitor Count" />
-  <img src="https://profile-counter.glitch.me/nikitadudhbhate/count.svg" alt="Total Visitors" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Always+learning+DevOps+%26+Cloud!;Thanks+for+visiting+🚀" alt="Typing SVG" />
-</p>
 ---
 
 ### 🧠 About Me

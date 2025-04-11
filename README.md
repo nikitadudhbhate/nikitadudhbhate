@@ -27,11 +27,23 @@
 
 ---
 
-### 🧠 About Me
+## 👋 About Me
 
-🌟 DevOps Engineer with a passion for automating everything!  
-🌐 Love building pipelines, deploying on AWS, and writing clean IaC.  
-🎯 Focused on sharing knowledge with the DevOps community.
+Hi there! I'm **Nikita Dudhbhate**, a passionate and motivated **DevOps Engineer** with a strong enthusiasm for cloud computing and automation. I love turning complex infrastructure challenges into elegant, automated, and scalable solutions.
+
+🌟 With experience working on real-world CI/CD pipelines, Dockerized deployments, AWS ECS, Lambda, S3, EC2, and CloudFormation, I’ve built a solid foundation in DevOps practices. I’m constantly exploring new tools and practices in the DevOps ecosystem.
+
+🔁 I believe in **continuous learning** and the power of **open-source collaboration**. Whether it’s automating workflows, containerizing applications, or scripting cloud resources—if it’s scalable, I’m into it!
+
+📈 Currently, I’m focused on leveling up and gaining deeper expertise in tools like **Terraform, Kubernetes, and AWS CloudFormation**, while contributing to automation and infrastructure-as-code projects.
+
+🎯 **My Goal:** To become a cloud-native infrastructure specialist who builds reliable, cost-effective, and secure cloud systems.
+
+🛠️ Tech I Work With: AWS, Docker, GitHub Actions, Terraform, Kubernetes, Git, Linux, Bash, Python
+
+📚 Always excited to learn, build, and connect with like-minded tech enthusiasts.
+
+
 
 ---
 

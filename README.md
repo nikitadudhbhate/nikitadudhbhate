@@ -52,15 +52,31 @@
 
 ---
 
-
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:cloudtechniki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nikita-dudhbhate" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nikitadudhbhate" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://hashnode.com/@nikitadudhbhate" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="mailto:cloudtechniki@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="40" style="margin-right: 80px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikita-dudhbhate/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="margin-right: 80px;" />
+  </a>
+  <a href="https://github.com/nikitadudhbhate" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" height="40" style="margin-right: 80px;" />
+  </a>
+  <a href="https://nikitadudhbhate.hashnode.dev/" target="_blank">
+    <img src="hashnode.png" alt="Hashnode" height="40" style="margin-right: 80px;" />
+  </a>
+  <a href="https://x.com/Ms_NikitaD01?t=beHG0D2QgHivmF-isXhC8g&s=09" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X (Twitter)" height="40" style="margin-right: 80px;" />
+  </a>
+  <a href="https://www.instagram.com/__cloudtech?utm_source=qr&igsh=MXdtaWFhb3FqbXV3Yg==" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="40" style="margin-right: 80px;" />
+  </a>
 </p>
+
+
+
 
 ---
 
@@ -78,15 +94,10 @@
 
 ### 📜 Certifications
 
-<div align="center">
 
-<img src="https://images.credly.com/size/220x220/images/684f00c0-d8c8-4577-9b59-2ec54f41b091/image.png" alt="AWS CCP" width="100" />
-<img src="https://greatlearning.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/04/great-learning-logo-1.png" alt="Great Learning Full Stack" width="150" />
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://drive.google.com/file/d/169qV1zdskigenkf545YnqWaHMgKUuMap/view?usp=drive_link)
 
-</div>
 
-- [AWS Certified Cloud Practitioner]([https://www.credly.com/badges/your-badge-link](https://drive.google.com/file/d/169qV1zdskigenkf545YnqWaHMgKUuMap/view?usp=drive_link))
-- [Full Stack Developer - Great Learning](https://drive.google.com/file/d/1TP0LsqtDdvsbqGHQCueBy_WeL664mboV/view?usp=drive_link)
 
 ---
 

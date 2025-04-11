@@ -1,22 +1,22 @@
 
 <h1 align="center">👋 Nikita Dudhbhate</h1>
+<!--
 <h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automator</h3>
+<marquee behavior="scroll" direction="right" scrollamount="8">
+  <h3 align="center">🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🔁 CI/CD Automator | 🐳 Docker Lover | ⚙️ Infrastructure as Code Fan</h3>
+</marquee>
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=DevOps+Engineer;Cloud+Enthusiast;CI%2FCD+Automator;Docker+Lover;Infrastructure+as+Code+Fan" alt="Typing SVG" />
+</p>
+
+
 
 <p align="center">
   <img src="banner.png" alt="Nikita Dudhbhate DevOps Banner" width="800" height="350"/>
  
 </p>
 
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitadudhbhate&label=Profile%20Views&color=0e75b6&style=flat" alt="nikitadudhbhate" />
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nikitadudhbhate/nikitadudhbhate/assets/banner-devops.png" />
-</p>
--->
 ---
 
 <p align="center">
@@ -35,19 +35,20 @@
 
 ---
 
+## 🚀 Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right: 80px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" style="margin-right:80px;" alt="Docker"/>
+  <img src="aws.png" height="40" style="margin-right:80px;" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right:80px;" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="margin-right:80px;" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" style="margin-right:80px;" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin-right:80px;" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" style="margin-right:80px;" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" style="margin-right:80px;" alt="Kubernetes"/>
 </p>
-
 
 ---
 

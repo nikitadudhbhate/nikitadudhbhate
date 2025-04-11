@@ -10,19 +10,25 @@
 
 
 <p align="center">
-  <img src="https://github.com/nikitadudhbhate/nikitadudhbhate/assets/banner-devops.png" alt="DevOps Banner" />
+  <img src="https://github.com/nikitadudhbhate/nikitadudhbhate/assets/banner-devops.png" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Nikita Dudhbhate</h1>
+<h1 align="center">👋 Nikita Dudhbhate</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Automator</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nikita-dudhbhate"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:cloudtechniki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/nikitadudhbhate"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/nikita-dudhbhate" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:cloudtechniki@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/nikitadudhbhate" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
-### ✨ Visitor Counter
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitadudhbhate&style=flat-square&color=brightgreen" alt="Visitor Count" />
